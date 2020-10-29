@@ -3,7 +3,7 @@
 Codes for paper "DisenE: Disentangling Knowledge Graph Embeddings".<br>
 Xiaoyu Kou, Yankai Lin, Yuntao Li, Jiahao Xu, Peng Li, Jie Zhou, Yan Zhang.<br>
 In COLING 2020
-### [arXiv](https://arxiv.org/abs/2010.02565)
+### [arXiv](https://arxiv.org/abs/2010.14730)
 
 
 ## Requirement
